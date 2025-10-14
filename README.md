@@ -5,27 +5,52 @@
 #### GIDS5101
 
 ## **TABLA DE CONTENIDO**
-1. [Actividad 1 Tutorial 1 2D](#Tutoriales/Actividad 1 Tutorial 1 2D.pdf)
-2. [EjercicioPractico2](#Ejercicios practicos/EjercicioPractico2.pdf)
-1. [Desafío 2](#desafio-2---viernes-3-de-octubre)
-2. [Lección 1: El control del jugador](#leccion-1-el-control-del-jugador)
-3. [Desafío 3: Creación de un menú](#desafio-3-menu)
+### TUTORIALES
+1. [Tutorial 1- Player Animations 2D](#tutorial1)
+2. [Tutorial 2- Player Animations 2D](#tutorial2)
+
+### VIDEOS TUTORIALES   
+1. [Vídeo 01 Creación del mundo](#video1)
+2. [Vídeo 02 Movimiento y Salto](#)
+3. [Vídeo 03 Recoger Frutas](#)
+4. [Vídeo 04 Animaciones de personaje](#)
+5. [Vídeo 05 Enemigos](#)
+6. [Vídeo 06 Niveles](#)
+7. [Vídeo 07 CheckPoint]
+8. [Vídeo 08 Nuevos personajes]
+9. [Vídeo 09 Menú Principal]
+10. [Vídeo 10 Controles para móvil]
+11. [Vídeo 11 Score]
+12. [Vídeo 12 Vidas]
 
 ---
 
-### Desafio 2 - Viernes 3 de octubre <a id="desafio-2---viernes-3-de-octubre"></a>
-Este desafio se entrego en clase, se adjunta evidencia de resultado final
+### Tutorial 1 -  <a id="tutorial1"></a>
+Este desafío se realizo en clase el día 19 de septiembre.
+El objetivo: 
+ ★ Hablaremos del diseño de patrones de software utilizados en Unity.
+ ★ Crearanimaciones para un jugador
+ 
 #### Resultado
-<img width="1272" height="388" alt="image" src="https://github.com/user-attachments/assets/ea398741-58ce-4dcb-9aed-0238f1aa61d9" />
+<img width="1272" height="388" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/b9e82217b66ebdd7477fe6f1c8c68cd6a50e8ef7/Tutoriales/Evidencia%20Tutorial%201.png" />
+[Ver PDF del resultado](https://github.com/dalisoto/Creacion_de_videojuegos/blob/ba731487eeab9e16eb8938dc449c541a176ad24d/Tutoriales/Tutorial%201-%20Player%20Animation%202D.pdf)
 
-[🎥 Video evidencia de autoria]()
+### Tutorial 2 -  <a id="tutorial2"></a>
+Este desafío se realizo en clase el día 8 de octubre.
+El objetivo:
+ ★ Usaremoslos componentes Colliders y RigidBody para la física de los objetos.
+ ★ Utilizaremos Sorting Layers para el ordenamiento de los objetos.
+ ★ Reutilizamiento de objetos con Prefabs.
+
+#### Resultado
+<img width="1272" height="388" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/b9e82217b66ebdd7477fe6f1c8c68cd6a50e8ef7/Tutoriales/Evidencia%20Tutorial%202.png" />
+[Ver PDF del resultado](https://github.com/dalisoto/Creacion_de_videojuegos/blob/341c83f24a03d2a798a70d4183e0cdba94b5427d/Tutoriales/Tutorial%202-%20Player%20Animations%202D.pdf)
 
 ---
-
-### Lección 1: El control del jugador <a id="leccion-1-el-control-del-jugador"></a>
+### Vídeo 01 Creación del mundo <a id="video1"></a>
 #### Resultado
 
-<img width="1269" height="636" alt="image" src="https://github.com/user-attachments/assets/7fc0da0e-5449-40af-8de0-f070d46e319e" />
+<img width="1269" height="636" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/341c83f24a03d2a798a70d4183e0cdba94b5427d/Ejercicios%20practicos/Evidencia%20Video%201.png" />
 
 #### Evidencia
 
