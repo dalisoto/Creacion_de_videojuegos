@@ -25,7 +25,7 @@
 12. [Vídeo 12 Vidas]
 
 ---
-##TUTORIALES 
+## TUTORIALES 
 
 ### Tutorial 1 -  <a id="tutorial1"></a>
 Este desafío se realizo en clase el día 19 de septiembre.<br>
