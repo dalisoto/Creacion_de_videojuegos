@@ -34,7 +34,7 @@ El objetivo: <br>
 #### Resultado
 <img width="1272" height="388" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/b9e82217b66ebdd7477fe6f1c8c68cd6a50e8ef7/Tutoriales/Evidencia%20Tutorial%201.png" />
 #### Evidencia 
-<br><a href="https://github.com/dalisoto/Creacion_de_videojuegos/raw/ba731487eeab9e16eb8938dc449c541a176ad24d/Tutoriales/Tutorial%201-%20Player%20Animation%202D.pdf" target="_blank">Ver PDF del resultado</a>
+<br><a href="https://drive.google.com/file/d/1SVotXgqY2kb-eXJiHCkozpRpOL3DsoDN/view?usp=sharing" target="_blank">Ver PDF del resultado</a>
 
 ### Tutorial 2 -  <a id="tutorial2"></a>
 Este desafío se realizo en clase el día 8 de octubre. <br>
