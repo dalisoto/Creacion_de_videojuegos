@@ -42,7 +42,7 @@ El objetivo: <br>
 
 #### Evidencia 
 📚<a href="https://github.com/dalisoto/Creacion_de_videojuegos/raw/341c83f24a03d2a798a70d4183e0cdba94b5427d/Tutoriales/Tutorial%202-%20Player%20Animations%202D.pdf">Ver PDF del resultado</a> <br>
-<a href="https://drive.google.com/file/d/13w16PGNkCqFl7yzlpS9xJseq515oOLze/view?usp=drive_link" >Ver video del resultado</a>
+📹<a href="https://drive.google.com/file/d/13w16PGNkCqFl7yzlpS9xJseq515oOLze/view?usp=drive_link" >Ver video del resultado</a>
 
 📦<a href="https://github.com/dalisoto/Creacion_de_videojuegos/blob/c2755a7aad591e9e09ba85cc4ad1c55899d09dea/Tutoriales/PackagePractico.unitypackage">Package de Unity</a>
 
