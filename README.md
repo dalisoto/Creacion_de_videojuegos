@@ -52,8 +52,17 @@ El objetivo: <br>
 <a href="https://drive.google.com/file/d/13w16PGNkCqFl7yzlpS9xJseq515oOLze/view?usp=drive_link" >Ver video del resultado</a>
 
 ---
+En youtube se realizaron las actividades del curso <a href="https://www.youtube.com/watch?v=-m7ZaHhkDAc&list=PLNEAWvYbJJ9kZpaIg2RfzAc_KZixBgchT">Juegos de plataforas 2D</a> las cuales son documentadas a continuación.
+
 ### Vídeo 01 Creación del mundo <a id="video1"></a>
+Tutorial 1 Creación del mundo en unity con el uso de platillas de AssetsStore.
 #### Resultado
 <img width="1269" height="636" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/341c83f24a03d2a798a70d4183e0cdba94b5427d/Ejercicios%20practicos/Evidencia%20Video%201.png" />
 #### Evidencia 
-<br><a href="https://github.com/dalisoto/Creacion_de_videojuegos/blob/e97163b7452e8cb05edb7919b1d39a49c193e829/Ejercicios%20practicos/EjercicioPractico2.pdf">Ver PDF del resultado</a>
+<a href="https://github.com/dalisoto/Creacion_de_videojuegos/blob/e97163b7452e8cb05edb7919b1d39a49c193e829/Ejercicios%20practicos/EjercicioPractico2.pdf">Ver PDF del resultado</a>
+
+### Vídeo 02 Movimiento y Salto <a id="video1"></a>
+#### Resultado
+<img width="1269" height="636" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/341c83f24a03d2a798a70d4183e0cdba94b5427d/Ejercicios%20practicos/Evidencia%20Video%201.png" />
+#### Evidencia 
+<a href="https://github.com/dalisoto/Creacion_de_videojuegos/blob/e97163b7452e8cb05edb7919b1d39a49c193e829/Ejercicios%20practicos/EjercicioPractico2.pdf">Ver PDF del resultado</a>
