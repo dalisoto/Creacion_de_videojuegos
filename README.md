@@ -35,7 +35,7 @@ El objetivo: <br>
 <img width="1272" height="388" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/b9e82217b66ebdd7477fe6f1c8c68cd6a50e8ef7/Tutoriales/Evidencia%20Tutorial%201.png" />
 
 #### Evidencia 
-<br><a href="https://github.com/dalisoto/Creacion_de_videojuegos/blob/eb62cace110ad369d4057bdc330ef1b8853dc440/Tutoriales/Tutorial%201-%20Player%20Animation%202D.pdf">Ver PDF del resultado</a>
+<a href="https://github.com/dalisoto/Creacion_de_videojuegos/blob/eb62cace110ad369d4057bdc330ef1b8853dc440/Tutoriales/Tutorial%201-%20Player%20Animation%202D.pdf">Ver PDF del resultado</a>
 
 ### Tutorial 2 -  <a id="tutorial2"></a>
 Este desafío se realizo en clase el día 8 de octubre. <br>
@@ -48,7 +48,7 @@ El objetivo: <br>
 <img width="1272" height="388" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/b9e82217b66ebdd7477fe6f1c8c68cd6a50e8ef7/Tutoriales/Evidencia%20Tutorial%202.png" />
 
 #### Evidencia 
-<br><a href="https://github.com/dalisoto/Creacion_de_videojuegos/raw/341c83f24a03d2a798a70d4183e0cdba94b5427d/Tutoriales/Tutorial%202-%20Player%20Animations%202D.pdf">Ver PDF del resultado</a>
+<a href="https://github.com/dalisoto/Creacion_de_videojuegos/raw/341c83f24a03d2a798a70d4183e0cdba94b5427d/Tutoriales/Tutorial%202-%20Player%20Animations%202D.pdf">Ver PDF del resultado</a> <br>
 <a href="https://drive.google.com/file/d/13w16PGNkCqFl7yzlpS9xJseq515oOLze/view?usp=drive_link" >Ver video del resultado</a>
 
 ---
