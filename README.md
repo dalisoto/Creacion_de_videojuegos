@@ -13,16 +13,6 @@
 ### VIDEOS TUTORIALES   
 1. [Vídeo 01 Creación del mundo](#video1)
 2. [Vídeo 02 Movimiento y Salto](#video2)
-3. [Vídeo 03 Recoger Frutas]()
-4. [Vídeo 04 Animaciones de personaje]()
-5. [Vídeo 05 Enemigos]()
-6. [Vídeo 06 Niveles]()
-7. [Vídeo 07 CheckPoint]
-8. [Vídeo 08 Nuevos personajes]
-9. [Vídeo 09 Menú Principal]
-10. [Vídeo 10 Controles para móvil]
-11. [Vídeo 11 Score]
-12. [Vídeo 12 Vidas]
 
 ---
 ## TUTORIALES 
