@@ -34,19 +34,19 @@ El objetivo:
 #### Resultado
 <img width="1272" height="388" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/b9e82217b66ebdd7477fe6f1c8c68cd6a50e8ef7/Tutoriales/Evidencia%20Tutorial%201.png" />
 #### Evidencia
-[Ver PDF del resultado](#https://github.com/dalisoto/Creacion_de_videojuegos/blob/ba731487eeab9e16eb8938dc449c541a176ad24d/Tutoriales/Tutorial%201-%20Player%20Animation%202D.pdf)
+[Ver PDF del resultado](#https://github.com/dalisoto/Creacion_de_videojuegos/raw/ba731487eeab9e16eb8938dc449c541a176ad24d/Tutoriales/Tutorial%201-%20Player%20Animation%202D.pdf)
 
 ### Tutorial 2 -  <a id="tutorial2"></a>
 Este desafío se realizo en clase el día 8 de octubre.
-El objetivo:
- ★ Usaremoslos componentes Colliders y RigidBody para la física de los objetos.
+El objetivo: /n 
+ ★ Usaremoslos componentes Colliders y RigidBody para la física de los objetos. \n
  ★ Utilizaremos Sorting Layers para el ordenamiento de los objetos.
  ★ Reutilizamiento de objetos con Prefabs.
 
 #### Resultado
 <img width="1272" height="388" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/b9e82217b66ebdd7477fe6f1c8c68cd6a50e8ef7/Tutoriales/Evidencia%20Tutorial%202.png" />
 #### Evidencia
-[Ver PDF del resultado](#https://github.com/dalisoto/Creacion_de_videojuegos/blob/341c83f24a03d2a798a70d4183e0cdba94b5427d/Tutoriales/Tutorial%202-%20Player%20Animations%202D.pdf)
+[Ver PDF del resultado](https://github.com/dalisoto/Creacion_de_videojuegos/raw/341c83f24a03d2a798a70d4183e0cdba94b5427d/Tutoriales/Tutorial%202-%20Player%20Animations%202D.pdf)
 
 ---
 ### Vídeo 01 Creación del mundo <a id="video1"></a>
