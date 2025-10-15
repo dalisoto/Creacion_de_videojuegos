@@ -67,8 +67,9 @@ Tutorial 1 Creación del mundo en unity con el uso de platillas de AssetsStore.
 #### Resultado
 <img width="1269" height="636" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/341c83f24a03d2a798a70d4183e0cdba94b5427d/Ejercicios%20practicos/Evidencia%20Video%201.png" />
 #### Evidencia 
-<a href="https://github.com/dalisoto/Creacion_de_videojuegos/blob/e97163b7452e8cb05edb7919b1d39a49c193e829/Ejercicios%20practicos/EjercicioPractico2.pdf">Ver PDF del resultado</a>
+<a href="https://github.com/dalisoto/Creacion_de_videojuegos/blob/e97163b7452e8cb05edb7919b1d39a49c193e829/Ejercicios%20practicos/EjercicioPractico2.pdf">Ver PDF del resultado</a><br>
 <a href="https://drive.google.com/file/d/1NE1Sh0_0uAiSdTuPa0iJzz37EcmbYFLY/view?usp=drive_link">Ver video del resultado</a>
+
 ### Vídeo 03 Recoger Frutas <a id="video3"></a>
 #### Resultado
 <img width="1269" height="636" alt="image" src="" />
