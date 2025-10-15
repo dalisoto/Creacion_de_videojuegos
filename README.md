@@ -8,6 +8,7 @@
 ### TUTORIALES
 1. [Tutorial 1- Player Animations 2D](#tutorial1)
 2. [Tutorial 2- Player Animations 2D](#tutorial2)
+3. [Practica Creación de Menu](#menu)
 
 ### VIDEOS TUTORIALES   
 1. [Vídeo 01 Creación del mundo](#video1)
@@ -51,6 +52,18 @@ El objetivo: <br>
 #### Evidencia 
 <a href="https://github.com/dalisoto/Creacion_de_videojuegos/raw/341c83f24a03d2a798a70d4183e0cdba94b5427d/Tutoriales/Tutorial%202-%20Player%20Animations%202D.pdf">Ver PDF del resultado</a> <br>
 <a href="https://drive.google.com/file/d/13w16PGNkCqFl7yzlpS9xJseq515oOLze/view?usp=drive_link" >Ver video del resultado</a>
+
+### Crear Menu <a id="menu"></a>
+Diseñar y programar un menú principal funcional en Unity que permita navegar entre escenas y 
+controlar acciones básicas (iniciar juego, opciones, salir).
+
+#### Resultado 
+<img width="1272" height="388" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/0e10ec7c5b0a951c8c396508272c1615e6a9a265/Tutoriales/Menu%20Evidencia.png" />
+
+#### Evidencia 
+<a href="https://github.com/dalisoto/Creacion_de_videojuegos/blob/0e10ec7c5b0a951c8c396508272c1615e6a9a265/Tutoriales/Main%20Menu%20activity.pdf">Ver PDF del resultado</a>
+
+<a href="https://drive.google.com/file/d/1T_f1RD0E0eGj_fw6OoA4_dGL5mOFLV9C/view?usp=sharing ">Ver video del resultado</a>
 
 ---
 ## VIDEOS DE YOUTUBE
