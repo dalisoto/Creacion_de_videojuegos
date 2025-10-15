@@ -33,8 +33,8 @@ El objetivo: <br>
  
 #### Resultado
 <img width="1272" height="388" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/b9e82217b66ebdd7477fe6f1c8c68cd6a50e8ef7/Tutoriales/Evidencia%20Tutorial%201.png" />
-#### Evidencia
-<a href="https://drive.google.com/file/d/1SVotXgqY2kb-eXJiHCkozpRpOL3DsoDN/view?usp=sharing" target="_blank">Ver PDF del resultado</a>
+#### Evidencia <br>
+[Ver PDF del resultado](https://drive.google.com/file/d/1SVotXgqY2kb-eXJiHCkozpRpOL3DsoDN/view?usp=sharing)
 
 ### Tutorial 2 -  <a id="tutorial2"></a>
 Este desafío se realizo en clase el día 8 de octubre. <br>
