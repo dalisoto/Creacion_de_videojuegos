@@ -33,8 +33,8 @@ El objetivo: <br>
  
 #### Resultado
 <img width="1272" height="388" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/b9e82217b66ebdd7477fe6f1c8c68cd6a50e8ef7/Tutoriales/Evidencia%20Tutorial%201.png" />
-#### Evidencia <br>
-<a href="https://github.com/dalisoto/Creacion_de_videojuegos/raw/ba731487eeab9e16eb8938dc449c541a176ad24d/Tutoriales/Tutorial%201-%20Player%20Animation%202D.pdf">Ver PDF del resultado</a>
+#### Evidencia 
+<br><a href="https://github.com/dalisoto/Creacion_de_videojuegos/raw/ba731487eeab9e16eb8938dc449c541a176ad24d/Tutoriales/Tutorial%201-%20Player%20Animation%202D.pdf" target="_blank">Ver PDF del resultado</a>
 
 ### Tutorial 2 -  <a id="tutorial2"></a>
 Este desafío se realizo en clase el día 8 de octubre. <br>
@@ -45,13 +45,12 @@ El objetivo: <br>
 
 #### Resultado
 <img width="1272" height="388" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/b9e82217b66ebdd7477fe6f1c8c68cd6a50e8ef7/Tutoriales/Evidencia%20Tutorial%202.png" />
-#### Evidencia <br>
-<a href="https://github.com/dalisoto/Creacion_de_videojuegos/raw/341c83f24a03d2a798a70d4183e0cdba94b5427d/Tutoriales/Tutorial%202-%20Player%20Animations%202D.pdf">Ver PDF del resultado</a>
+#### Evidencia 
+<br><a href="https://github.com/dalisoto/Creacion_de_videojuegos/raw/341c83f24a03d2a798a70d4183e0cdba94b5427d/Tutoriales/Tutorial%202-%20Player%20Animations%202D.pdf" target="_blank">Ver PDF del resultado</a>
 
 ---
 ### Vídeo 01 Creación del mundo <a id="video1"></a>
 #### Resultado
 <img width="1269" height="636" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/341c83f24a03d2a798a70d4183e0cdba94b5427d/Ejercicios%20practicos/Evidencia%20Video%201.png" />
-
-#### Evidencia <br>
-<a href="https://github.com/dalisoto/Creacion_de_videojuegos/blob/e97163b7452e8cb05edb7919b1d39a49c193e829/Ejercicios%20practicos/EjercicioPractico2.pdf">Ver PDF del resultado</a>
+#### Evidencia 
+<br><a href="https://github.com/dalisoto/Creacion_de_videojuegos/blob/e97163b7452e8cb05edb7919b1d39a49c193e829/Ejercicios%20practicos/EjercicioPractico2.pdf" target="_blank">Ver PDF del resultado</a>
