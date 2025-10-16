@@ -27,7 +27,7 @@ El objetivo: <br>
 <img width="1272" height="388" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/b9e82217b66ebdd7477fe6f1c8c68cd6a50e8ef7/Tutoriales/Evidencia%20Tutorial%201.png" />
 
 #### Evidencia 
-📚<a href="https://github.com/dalisoto/Creacion_de_videojuegos/blob/eb62cace110ad369d4057bdc330ef1b8853dc440/Tutoriales/Tutorial%201-%20Player%20Animation%202D.pdf">Ver PDF del resultado</a>
+📚<a href="https://drive.google.com/file/d/1SVotXgqY2kb-eXJiHCkozpRpOL3DsoDN/view?usp=sharing">Ver PDF del resultado</a>
 
 
 ### Tutorial 2   <a id="tutorial2"></a>
@@ -41,7 +41,7 @@ El objetivo: <br>
 <img width="1272" height="388" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/b9e82217b66ebdd7477fe6f1c8c68cd6a50e8ef7/Tutoriales/Evidencia%20Tutorial%202.png" />
 
 #### Evidencia 
-📚<a href="https://github.com/dalisoto/Creacion_de_videojuegos/raw/341c83f24a03d2a798a70d4183e0cdba94b5427d/Tutoriales/Tutorial%202-%20Player%20Animations%202D.pdf">Ver PDF del resultado</a> <br>
+📚<a href="https://drive.google.com/file/d/1u2tUVM0ZH8YjWpm6zgUgE3j_mMXv7OoG/view?usp=drive_link">Ver PDF del resultado</a> <br>
 📹<a href="https://drive.google.com/file/d/13w16PGNkCqFl7yzlpS9xJseq515oOLze/view?usp=drive_link" >Ver video del resultado</a>
 
 📦<a href="https://github.com/dalisoto/Creacion_de_videojuegos/blob/c2755a7aad591e9e09ba85cc4ad1c55899d09dea/Tutoriales/PackagePractico.unitypackage">Package de Unity</a>
@@ -55,7 +55,7 @@ controlar acciones básicas (iniciar juego, opciones, salir).
 <img width="1272" height="388" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/0e10ec7c5b0a951c8c396508272c1615e6a9a265/Tutoriales/Menu%20Evidencia.png" />
 
 #### Evidencia 
-📚<a href="https://github.com/dalisoto/Creacion_de_videojuegos/blob/0e10ec7c5b0a951c8c396508272c1615e6a9a265/Tutoriales/Main%20Menu%20activity.pdf">Ver PDF del resultado</a>
+📚<a href="https://drive.google.com/file/d/12Ju8WOM14A8M8Xi0MYBwcYXT6uw_kw-D/view?usp=sharing">Ver PDF del resultado</a>
 
 📹<a href="https://drive.google.com/file/d/1T_f1RD0E0eGj_fw6OoA4_dGL5mOFLV9C/view?usp=sharing ">Ver video del resultado</a>
 
@@ -71,7 +71,7 @@ Tutorial 1 Creación del mundo en unity con el uso de platillas de AssetsStore.
 <img width="1269" height="636" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/341c83f24a03d2a798a70d4183e0cdba94b5427d/Ejercicios%20practicos/Evidencia%20Video%201.png" />
 
 #### Evidencia 
-📚<a href="https://github.com/dalisoto/Creacion_de_videojuegos/blob/e97163b7452e8cb05edb7919b1d39a49c193e829/Ejercicios%20practicos/EjercicioPractico2.pdf">Ver PDF del resultado</a>
+📚<a href="https://drive.google.com/file/d/1OZAn18UYWzLlE9YFcHOb6J3npjuadH-N/view?usp=drive_link">Ver PDF del resultado</a>
 
 
 ### Vídeo 02 Movimiento y Salto <a id="video2"></a>
@@ -79,7 +79,7 @@ Tutorial 1 Creación del mundo en unity con el uso de platillas de AssetsStore.
 <img width="1272" height="388" alt="image"  src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/341c83f24a03d2a798a70d4183e0cdba94b5427d/Ejercicios%20practicos/Evidencia%20Video%201.png" />
 
 #### Evidencia 
-📚<a href="https://github.com/dalisoto/Creacion_de_videojuegos/blob/e97163b7452e8cb05edb7919b1d39a49c193e829/Ejercicios%20practicos/EjercicioPractico2.pdf">Ver PDF del resultado</a><br>
+📚<a href="https://drive.google.com/file/d/1OZAn18UYWzLlE9YFcHOb6J3npjuadH-N/view?usp=drive_link">Ver PDF del resultado</a><br>
 📹<a href="https://drive.google.com/file/d/1NE1Sh0_0uAiSdTuPa0iJzz37EcmbYFLY/view?usp=drive_link">Ver video del resultado</a>
 
 
