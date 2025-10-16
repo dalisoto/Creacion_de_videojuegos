@@ -14,6 +14,7 @@
 1. [Vídeo 01 Creación del mundo](#video1)
 2. [Vídeo 02 Movimiento y Salto](#video2)
 3. [Vídeo 03 Recoger Frutas](#video3)
+4. [Vídeo 04 Animaciones de personaje](#video4)
 ---
 ## TUTORIALES 
 
@@ -24,7 +25,7 @@ El objetivo: <br>
  ★ Crearanimaciones para un jugador. <br>
  
 #### Resultado
-<img width="1272" height="388" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/b9e82217b66ebdd7477fe6f1c8c68cd6a50e8ef7/Tutoriales/Evidencia%20Tutorial%201.png" />
+<img width="1200" height="500" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/b9e82217b66ebdd7477fe6f1c8c68cd6a50e8ef7/Tutoriales/Evidencia%20Tutorial%201.png" />
 
 #### Evidencia 
 📚<a href="https://drive.google.com/file/d/1SVotXgqY2kb-eXJiHCkozpRpOL3DsoDN/view?usp=sharing">Ver PDF del resultado</a>
@@ -38,7 +39,7 @@ El objetivo: <br>
  ★ Reutilizamiento de objetos con Prefabs.<br>
 
 #### Resultado
-<img width="1272" height="388" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/b9e82217b66ebdd7477fe6f1c8c68cd6a50e8ef7/Tutoriales/Evidencia%20Tutorial%202.png" />
+<img width="1200" height="500" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/b9e82217b66ebdd7477fe6f1c8c68cd6a50e8ef7/Tutoriales/Evidencia%20Tutorial%202.png" />
 
 #### Evidencia 
 📚<a href="https://drive.google.com/file/d/1u2tUVM0ZH8YjWpm6zgUgE3j_mMXv7OoG/view?usp=drive_link">Ver PDF del resultado</a> <br>
@@ -52,7 +53,7 @@ Diseñar y programar un menú principal funcional en Unity que permita navegar e
 controlar acciones básicas (iniciar juego, opciones, salir).
 
 #### Resultado 
-<img width="1272" height="388" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/0e10ec7c5b0a951c8c396508272c1615e6a9a265/Tutoriales/Menu%20Evidencia.png" />
+<img width="1200" height="500" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/0e10ec7c5b0a951c8c396508272c1615e6a9a265/Tutoriales/Menu%20Evidencia.png" />
 
 #### Evidencia 
 📚<a href="https://drive.google.com/file/d/12Ju8WOM14A8M8Xi0MYBwcYXT6uw_kw-D/view?usp=sharing">Ver PDF del resultado</a>
@@ -68,7 +69,7 @@ En youtube se realizaron las actividades del curso <a href="https://www.youtube.
 ### Vídeo 01 Creación del mundo <a id="video1"></a>
 Tutorial 1 Creación del mundo en unity con el uso de platillas de AssetsStore.
 #### Resultado
-<img width="1269" height="636" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/341c83f24a03d2a798a70d4183e0cdba94b5427d/Ejercicios%20practicos/Evidencia%20Video%201.png" />
+<img width="1200" height="500" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/341c83f24a03d2a798a70d4183e0cdba94b5427d/Ejercicios%20practicos/Evidencia%20Video%201.png" />
 
 #### Evidencia 
 📚<a href="https://drive.google.com/file/d/1OZAn18UYWzLlE9YFcHOb6J3npjuadH-N/view?usp=drive_link">Ver PDF del resultado</a>
@@ -76,7 +77,7 @@ Tutorial 1 Creación del mundo en unity con el uso de platillas de AssetsStore.
 
 ### Vídeo 02 Movimiento y Salto <a id="video2"></a>
 #### Resultado
-<img width="1272" height="388" alt="image"  src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/341c83f24a03d2a798a70d4183e0cdba94b5427d/Ejercicios%20practicos/Evidencia%20Video%201.png" />
+<img width="1200" height="500" alt="image"  src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/341c83f24a03d2a798a70d4183e0cdba94b5427d/Ejercicios%20practicos/Evidencia%20Video%201.png" />
 
 #### Evidencia 
 📚<a href="https://drive.google.com/file/d/1OZAn18UYWzLlE9YFcHOb6J3npjuadH-N/view?usp=drive_link">Ver PDF del resultado</a><br>
@@ -85,9 +86,23 @@ Tutorial 1 Creación del mundo en unity con el uso de platillas de AssetsStore.
 
 ### Vídeo 03 Recoger Frutas <a id="video3"></a>
 #### Resultado
-<img width="1272" height="388" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/341c83f24a03d2a798a70d4183e0cdba94b5427d/Ejercicios%20practicos/Evidencia%20Video%201.png" />
+<img width="1200" height="500" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/341c83f24a03d2a798a70d4183e0cdba94b5427d/Ejercicios%20practicos/Evidencia%20Video%201.png" />
 
 #### Evidencia 
 📚<a href="https://drive.google.com/file/d/1mS6IwJ9zW3OtTlA-8IK1_Ps3P8A6109G/view?usp=sharing">Ver PDF del resultado</a><br>
 📹<a href="https://drive.google.com/file/d/1Pgz-SMD_GcaplIgW06fF315ItCss49-L/view?usp=sharing">Ver video del resultado</a>
+
+
+### Vídeo 04 Animaciones de personajes <a id="video4"></a>
+#### Resultado
+<img width="1200" height="500" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/dfd4c7499d9e3c243159443158b9c64aa530330f/Ejercicios%20practicos/Video%204.png" />
+
+#### Evidencia 
+📚<a href="https://drive.google.com/file/d/1f1OnyRHnTJiQEOg1FoP1WORhztuneRE1/view?usp=drive_link">Ver PDF del resultado</a><br>
+📹<a href="https://drive.google.com/file/d/1skcJ_67Zd0YG7EbO7zizLdqZgvzepFnf/view?usp=drive_link">Ver video del resultado</a>
+
+
+
+
+
 
