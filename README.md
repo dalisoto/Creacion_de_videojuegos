@@ -4,8 +4,8 @@
 #### Dalia del Carmen Mendiola Soto
 #### GIDS5101
 
-## **TABLA DE CONTENIDO**
-### TUTORIALES
+## TABLA DE CONTENIDO
+### TUTORIALES PRACTICOS
 1. [Tutorial 1- Player Animations 2D](#tutorial1)
 2. [Tutorial 2- Player Animations 2D](#tutorial2)
 3. [Practica Creación de Menu](#menu)
@@ -15,8 +15,10 @@
 2. [Vídeo 02 Movimiento y Salto](#video2)
 3. [Vídeo 03 Recoger Frutas](#video3)
 4. [Vídeo 04 Animaciones de personaje](#video4)
+5. [Vídeo 05 Enemigos](#video5)
+
 ---
-## TUTORIALES 
+## TUTORIALES PRACTICOS 
 
 ### Tutorial 1   <a id="tutorial1"></a>
 Este desafío se realizo en clase el día 19 de septiembre.<br>
@@ -61,7 +63,7 @@ controlar acciones básicas (iniciar juego, opciones, salir).
 📹<a href="https://drive.google.com/file/d/1T_f1RD0E0eGj_fw6OoA4_dGL5mOFLV9C/view?usp=sharing ">Ver video del resultado</a>
 
 ---
-## VIDEOS DE YOUTUBE
+## VIDEOS TUTORIALES DE YOUTUBE
 En youtube se realizaron las actividades del curso <a href="https://www.youtube.com/watch?v=-m7ZaHhkDAc&list=PLNEAWvYbJJ9kZpaIg2RfzAc_KZixBgchT">Juegos de plataforas 2D</a> las cuales son documentadas a continuación.
 
 📦<a href="https://github.com/dalisoto/Creacion_de_videojuegos/blob/e95f12440184a5c0d52fbd91d36bbc1199c02891/Ejercicios%20practicos/PackeageVideosYT.unitypackage">Package de Unity</a>
@@ -100,6 +102,15 @@ Tutorial 1 Creación del mundo en unity con el uso de platillas de AssetsStore.
 #### Evidencia 
 📚<a href="https://drive.google.com/file/d/1f1OnyRHnTJiQEOg1FoP1WORhztuneRE1/view?usp=drive_link">Ver PDF del resultado</a><br>
 📹<a href="https://drive.google.com/file/d/1skcJ_67Zd0YG7EbO7zizLdqZgvzepFnf/view?usp=drive_link">Ver video del resultado</a>
+
+
+### Vídeo 05 Enemigos <a id="video5"></a>
+#### Resultado
+<img width="1200" height="500" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/987f85b05040bc7797f2842c25ca951002f99f48/Ejercicios%20practicos/Video%2005%20Enemigos.png" />
+
+#### Evidencia 
+📚<a href="https://drive.google.com/file/d/1d3jkF_pbcQ3iJ36r4NbiRMvmPtKCtlfL/view?usp=sharing">Ver PDF del resultado</a><br>
+📹<a href="https://drive.google.com/file/d/1TSPSAmzsShhAxZmip1B7QYzBK6TeOWII/view?usp=drive_link">Ver video del resultado</a>
 
 
 
