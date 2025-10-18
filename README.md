@@ -111,6 +111,7 @@ Tutorial 1 Creación del mundo en unity con el uso de platillas de AssetsStore.
 #### Evidencia 
 📚<a href="https://drive.google.com/file/d/1d3jkF_pbcQ3iJ36r4NbiRMvmPtKCtlfL/view?usp=sharing">Ver PDF del resultado</a><br>
 📹<a href="https://drive.google.com/file/d/1TSPSAmzsShhAxZmip1B7QYzBK6TeOWII/view?usp=drive_link">Ver video del resultado</a>
+📦<a href="https://github.com/dalisoto/Creacion_de_videojuegos/blob/45e050f5374c77ee96323f3b426d27377e9b6aa8/Ejercicios%20practicos/packageDCMS.unitypackage">Package de Unity</a>
 
 
 
