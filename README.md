@@ -9,6 +9,7 @@
 1. [Tutorial 1- Player Animations 2D](#tutorial1)
 2. [Tutorial 2- Player Animations 2D](#tutorial2)
 3. [Practica Creación de Menu](#menu)
+4. [Ejercicio practico 6](#video8)
 
 ### VIDEOS TUTORIALES   
 1. [Vídeo 01 Creación del mundo](#video1)
@@ -16,7 +17,13 @@
 3. [Vídeo 03 Recoger Frutas](#video3)
 4. [Vídeo 04 Animaciones de personaje](#video4)
 5. [Vídeo 05 Enemigos](#video5)
-
+6. [Vídeo 06 Niveles](#video6)
+7. [Vídeo 07 CheckPoint](#video7)
+8. [Vídeo 08 Nuevos personajes](#video8)
+9. [Vídeo 09 Menú Principal](#menu)
+10. [Vídeo 10 Controles para móvil](#video10)
+11. [Vídeo 11 Score](#video11)
+12. [Vídeo 12 Vidas](#video12)
 ---
 ## TUTORIALES PRACTICOS 
 
@@ -112,6 +119,33 @@ Tutorial 1 Creación del mundo en unity con el uso de platillas de AssetsStore.
 📚<a href="https://drive.google.com/file/d/1d3jkF_pbcQ3iJ36r4NbiRMvmPtKCtlfL/view?usp=sharing">Ver PDF del resultado</a><br>
 📹<a href="https://drive.google.com/file/d/1TSPSAmzsShhAxZmip1B7QYzBK6TeOWII/view?usp=drive_link">Ver video del resultado</a>
 📦<a href="https://github.com/dalisoto/Creacion_de_videojuegos/blob/45e050f5374c77ee96323f3b426d27377e9b6aa8/Ejercicios%20practicos/packageDCMS.unitypackage">Package de Unity</a>
+
+
+### Vídeo 06 Niveles <a id="video6"></a>
+#### Resultado
+<img width="1200" height="500" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/d10f94f77f69b02ffe316fe350a1d716d4f84462/Ejercicios%20practicos/Video6.png" />
+
+#### Evidencia 
+📚<a href="https://drive.google.com/file/d/1g-THnd4aaxG6leeGZP-61bIlFeyyYFNG/view?usp=sharing">Ver PDF del resultado</a><br>
+📹<a href="https://drive.google.com/file/d/15-rq5BZBPwlVJbFEnXvv-nSuhB8S95NW/view?usp=sharing">Ver video del resultado</a>
+
+
+### Vídeo 07 CheckPoint <a id="video7"></a>
+#### Resultado
+<img width="1200" height="500" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/911abd6865a0a3e0f28ea3c472f66e58e6ca5b98/Ejercicios%20practicos/Video%207.png" />
+
+#### Evidencia 
+📚<a href="https://drive.google.com/file/d/1N1-ZEucV0M2k1_CTHjrplU2rYkfvNAET/view?usp=sharing">Ver PDF del resultado</a><br>
+📹<a href="https://drive.google.com/file/d/1Xmo4dsKHD68vuCHZQW1vd7kPq3P-Tkci/view?usp=sharing">Ver video del resultado</a>
+
+
+### Vídeo 08 Nuevos personajes <a id="video7"></a>
+#### Resultado
+<img width="1200" height="500" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/911abd6865a0a3e0f28ea3c472f66e58e6ca5b98/Ejercicios%20practicos/Video8.png" />
+
+#### Evidencia 
+📚<a href="https://drive.google.com/file/d/1mIle7KrFLXVlisB4_XDuL12A2DYk5XIg/view?usp=sharing">Ver PDF del resultado</a><br>
+📹<a href="https://drive.google.com/file/d/1mnqK9xCeiRTfHioM5Zn-O0yQSBfU4haE/view?usp=sharing">Ver video del resultado</a>
 
 
 
