@@ -67,7 +67,7 @@ controlar acciones básicas (iniciar juego, opciones, salir).
 #### Evidencia 
 📚<a href="https://drive.google.com/file/d/12Ju8WOM14A8M8Xi0MYBwcYXT6uw_kw-D/view?usp=sharing">Ver PDF del resultado</a>
 
-📹<a href="https://drive.google.com/file/d/1uwbpNg3RjcuCzSdDD1em5ter8vjrcbUc/view?usp=sharing">Ver video del resultado</a>
+📹<a href="https://drive.google.com/file/d/1Jqz6YFIIdtg-FwglDT7t5vG9BPwXIEXp/view?usp=sharing">Ver video del resultado</a>
 
 ---
 ## VIDEOS TUTORIALES DE YOUTUBE
