@@ -5,6 +5,10 @@
 #### GIDS5101
 
 ## TABLA DE CONTENIDO
+
+### PROPUESTA DE VIDEOJUEGO
+[Propuesta](#propuesta)
+
 ### TUTORIALES PRACTICOS
 1. [Tutorial 1- Player Animations 2D](#tutorial1)
 2. [Tutorial 2- Player Animations 2D](#tutorial2)
@@ -156,6 +160,10 @@ Tutorial 1 Creación del mundo en unity con el uso de platillas de AssetsStore.
 📚<a href="https://drive.google.com/file/d/1mF-5gI5J_CQ4Hjw_QDrdFIp9VMX6NFvv/view?usp=sharing">Ver PDF del resultado</a><br>
 📹<a href="https://drive.google.com/file/d/1AeTB6QmWFAxWQIGOc2i-xDIVwFpeoJoC/view?usp=sharing">Ver video del resultado</a>
 
+---
+### Propuesta de videojuego <a id="propuesta"></a>
+🎮<a href="https://www.canva.com/design/DAG2iRLAJj8/wdgvj-F22uUBKRelmr-t8Q/edit?utm_content=DAG2iRLAJj8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Ver presentación</a>
+ 
 
 
 
