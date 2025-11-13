@@ -161,9 +161,21 @@ Tutorial 1 Creación del mundo en unity con el uso de platillas de AssetsStore.
 📹<a href="https://drive.google.com/file/d/1AeTB6QmWFAxWQIGOc2i-xDIVwFpeoJoC/view?usp=sharing">Ver video del resultado</a>
 
 ---
+# VIDEOJUEGO 'Reflorecer 🌱' 
 ### Propuesta de videojuego <a id="propuesta"></a>
 🎮<a href="https://www.canva.com/design/DAG2iRLAJj8/wdgvj-F22uUBKRelmr-t8Q/edit?utm_content=DAG2iRLAJj8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Ver presentación</a>
- 
+
+ #### Nivel 1 'El Río Enfermo'
+ <img width="1200" height="500" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/5e72630deaa6ec1ccd82bfa540d540a3daeee388/Prop%20Nivel1.png" />
+📹<a href="https://drive.google.com/file/d/17wQu--GV5J3kG1LGrdzutIwYxo7NJxo8/view?usp=sharing">Ver video del resultado</a>
+
+ #### Nivel 2 'Recuperando la Tierra'
+ <img width="1200" height="500" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/5e72630deaa6ec1ccd82bfa540d540a3daeee388/Prop%20Nivel2.png" />
+
+ #### Nivel 3 'Reforestación de Peña Alta'
+ <img width="1200" height="500" alt="image" src="https://github.com/dalisoto/Creacion_de_videojuegos/blob/5e72630deaa6ec1ccd82bfa540d540a3daeee388/Prop%20Nivel3.png" />
+
+---
 
 
 
